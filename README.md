@@ -6,7 +6,7 @@
 
 ## You should know...
 <br>
-*  <P> Both HTML and CSS. </p>
+* <P> Both HTML and CSS. </p>
 
 ## Using Tailwind CSS
 
