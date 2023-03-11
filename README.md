@@ -11,5 +11,8 @@
 ## Using Tailwind CSS
 
 * <p> Install Tailwind using npm (node package manager)<br>
-* <p> You'll need node.js installed on your computer.</p>
+* <p> You'll need node.js installed on your computer.</p> <br>
+
+## How Tailwind Works <br>
+<img src="./image/l6u5le0ournfgo7kjfco.webp"/>
 
