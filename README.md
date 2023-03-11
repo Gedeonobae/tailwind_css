@@ -4,8 +4,8 @@
 
 * <p> Much lower-level than Bootstrap, materalize
 
-## You should know...
-<br>
+## You should know...<br>
+
 * <P> Both HTML and CSS. </p>
 
 ## Using Tailwind CSS
